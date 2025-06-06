@@ -63,6 +63,7 @@ LeetCode Solutions
 | [0189-rotate-array](https://github.com/YashPatel45/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/YashPatel45/LeetCode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/YashPatel45/LeetCode/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
@@ -163,6 +164,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/YashPatel45/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/YashPatel45/LeetCode/tree/master/0326-power-of-three) |
 ## Prefix Sum
 |  |
 | ------- |
