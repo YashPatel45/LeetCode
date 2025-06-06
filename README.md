@@ -105,6 +105,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YashPatel45/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/YashPatel45/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -141,4 +142,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/YashPatel45/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
