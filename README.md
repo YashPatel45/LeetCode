@@ -151,6 +151,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashPatel45/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/YashPatel45/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashPatel45/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/YashPatel45/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,4 +227,8 @@ LeetCode Solutions
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YashPatel45/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/YashPatel45/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
