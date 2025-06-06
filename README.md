@@ -63,6 +63,7 @@ LeetCode Solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/YashPatel45/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/YashPatel45/LeetCode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +98,7 @@ LeetCode Solutions
 | [0287-find-the-duplicate-number](https://github.com/YashPatel45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/YashPatel45/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/YashPatel45/LeetCode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -114,6 +116,7 @@ LeetCode Solutions
 | [0055-jump-game](https://github.com/YashPatel45/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashPatel45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashPatel45/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/YashPatel45/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
