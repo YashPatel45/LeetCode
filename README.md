@@ -74,4 +74,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/YashPatel45/LeetCode/tree/master/0049-group-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/YashPatel45/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
