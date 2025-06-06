@@ -29,6 +29,7 @@ LeetCode Solutions
 | [0287-find-the-duplicate-number](https://github.com/YashPatel45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashPatel45/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0605-can-place-flowers](https://github.com/YashPatel45/LeetCode/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ LeetCode Solutions
 | [0055-jump-game](https://github.com/YashPatel45/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashPatel45/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YashPatel45/LeetCode/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/YashPatel45/LeetCode/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
 | ------- |
