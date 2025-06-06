@@ -30,6 +30,7 @@ LeetCode Solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashPatel45/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0605-can-place-flowers](https://github.com/YashPatel45/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/YashPatel45/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,4 +224,5 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/YashPatel45/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
