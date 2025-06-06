@@ -23,6 +23,7 @@ LeetCode Solutions
 | [0189-rotate-array](https://github.com/YashPatel45/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/YashPatel45/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/YashPatel45/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +150,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/YashPatel45/LeetCode/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/YashPatel45/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
