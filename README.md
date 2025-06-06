@@ -38,6 +38,7 @@ LeetCode Solutions
 | [0205-isomorphic-strings](https://github.com/YashPatel45/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/YashPatel45/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YashPatel45/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/YashPatel45/LeetCode/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/YashPatel45/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/YashPatel45/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/YashPatel45/LeetCode/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
