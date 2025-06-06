@@ -21,6 +21,7 @@ LeetCode Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashPatel45/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/YashPatel45/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YashPatel45/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ LeetCode Solutions
 | [0012-integer-to-roman](https://github.com/YashPatel45/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YashPatel45/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/YashPatel45/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
 ## Trie
 |  |
 | ------- |
@@ -129,4 +131,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/YashPatel45/LeetCode/tree/master/0197-rising-temperature) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
