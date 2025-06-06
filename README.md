@@ -64,6 +64,7 @@ LeetCode Solutions
 | [0383-ransom-note](https://github.com/YashPatel45/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/YashPatel45/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/YashPatel45/LeetCode/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ LeetCode Solutions
 | [0263-ugly-number](https://github.com/YashPatel45/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/YashPatel45/LeetCode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/YashPatel45/LeetCode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -205,4 +207,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/YashPatel45/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
