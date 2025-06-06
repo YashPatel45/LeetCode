@@ -125,4 +125,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YashPatel45/LeetCode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/YashPatel45/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
