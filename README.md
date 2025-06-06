@@ -18,6 +18,7 @@ LeetCode Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashPatel45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashPatel45/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YashPatel45/LeetCode/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashPatel45/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ LeetCode Solutions
 | [0088-merge-sorted-array](https://github.com/YashPatel45/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YashPatel45/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashPatel45/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
 |  |
 | ------- |
@@ -69,6 +71,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YashPatel45/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashPatel45/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
