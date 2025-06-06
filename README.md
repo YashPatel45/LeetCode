@@ -27,6 +27,7 @@ LeetCode Solutions
 | [0274-h-index](https://github.com/YashPatel45/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/YashPatel45/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YashPatel45/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ LeetCode Solutions
 | [0217-contains-duplicate](https://github.com/YashPatel45/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YashPatel45/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/YashPatel45/LeetCode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@ LeetCode Solutions
 | [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/YashPatel45/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/YashPatel45/LeetCode/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Trie
 |  |
 | ------- |
@@ -181,4 +184,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YashPatel45/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
