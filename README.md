@@ -57,6 +57,7 @@ LeetCode Solutions
 | [0013-roman-to-integer](https://github.com/YashPatel45/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/YashPatel45/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/YashPatel45/LeetCode/tree/master/0263-ugly-number) |
 ## Trie
 |  |
 | ------- |
