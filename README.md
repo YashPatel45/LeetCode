@@ -19,6 +19,7 @@ LeetCode Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashPatel45/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YashPatel45/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashPatel45/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/YashPatel45/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ LeetCode Solutions
 | [0012-integer-to-roman](https://github.com/YashPatel45/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YashPatel45/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/YashPatel45/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/YashPatel45/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ LeetCode Solutions
 | ------- |
 | [0049-group-anagrams](https://github.com/YashPatel45/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/YashPatel45/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/YashPatel45/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -111,4 +114,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashPatel45/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YashPatel45/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YashPatel45/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
