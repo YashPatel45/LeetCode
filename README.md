@@ -43,6 +43,7 @@ LeetCode Solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/YashPatel45/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ LeetCode Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/YashPatel45/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/YashPatel45/LeetCode/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -211,4 +213,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/YashPatel45/LeetCode/tree/master/0412-fizz-buzz) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
