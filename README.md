@@ -7,6 +7,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashPatel45/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YashPatel45/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashPatel45/LeetCode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YashPatel45/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
