@@ -26,6 +26,7 @@ LeetCode Solutions
 | [0238-product-of-array-except-self](https://github.com/YashPatel45/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/YashPatel45/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/YashPatel45/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/YashPatel45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ LeetCode Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashPatel45/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/YashPatel45/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashPatel45/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/YashPatel45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
@@ -90,6 +92,7 @@ LeetCode Solutions
 | ------- |
 | [0035-search-insert-position](https://github.com/YashPatel45/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashPatel45/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/YashPatel45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,4 +169,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0274-h-index](https://github.com/YashPatel45/LeetCode/tree/master/0274-h-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YashPatel45/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
