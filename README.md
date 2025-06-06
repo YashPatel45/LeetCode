@@ -42,6 +42,7 @@ LeetCode Solutions
 | [0290-word-pattern](https://github.com/YashPatel45/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/YashPatel45/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ LeetCode Solutions
 | [0344-reverse-string](https://github.com/YashPatel45/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/YashPatel45/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +160,7 @@ LeetCode Solutions
 | ------- |
 | [0169-majority-element](https://github.com/YashPatel45/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/YashPatel45/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -195,4 +198,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/YashPatel45/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/YashPatel45/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
