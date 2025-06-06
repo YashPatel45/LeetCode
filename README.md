@@ -12,6 +12,7 @@ LeetCode Solutions
 | [0035-search-insert-position](https://github.com/YashPatel45/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/YashPatel45/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/YashPatel45/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/YashPatel45/LeetCode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,10 +61,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/YashPatel45/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/YashPatel45/LeetCode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/YashPatel45/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/YashPatel45/LeetCode/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
