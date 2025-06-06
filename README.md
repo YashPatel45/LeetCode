@@ -24,6 +24,7 @@ LeetCode Solutions
 | [0204-count-primes](https://github.com/YashPatel45/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/YashPatel45/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/YashPatel45/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/YashPatel45/LeetCode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ LeetCode Solutions
 | [0169-majority-element](https://github.com/YashPatel45/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YashPatel45/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YashPatel45/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/YashPatel45/LeetCode/tree/master/0274-h-index) |
 ## Linked List
 |  |
 | ------- |
@@ -158,4 +160,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YashPatel45/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/YashPatel45/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
